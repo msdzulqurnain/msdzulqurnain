@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![w](img/github-header-banner.png)
 
-### Programming Language Skills
+### Programming Language Skills </>
 ![My Skills](https://skillicons.dev/icons?i=html,css,py,php,js)
 
 ### Framework Skills ✨
