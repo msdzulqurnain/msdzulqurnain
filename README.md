@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Muhammad Slamet Dzulqurnain (Dzul) 👋
 
 <!--
 **msdzulqurnain/msdzulqurnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ![w](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhmdXlpeDdwMW95bXNsZXpubno1dDBvdnNjOXZiczVpb2cxeWQxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4gH9mQjn6OGQg/giphy.gif) -->
+
+<!-- ### Skills ⚡️
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,php,js,bootstrap,flask,fastapi,mongodb,mysql,postgres,redis,bash,git,github,md,heroku,nginx,postman,linux,ubuntu,mint,windows)](https://skillicons.dev) -->
+
+![w](img/github-header-banner.png)
+
+### Programming Language Skills </>
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,php,js)](https://skillicons.dev)
+
+### Framework Skills ✨
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,flask,fastapi)](https://skillicons.dev)
+
+### Database Skills 🗂
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)](https://skillicons.dev)
+
+### Other Skills 🛠
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,md,heroku,nginx,postman)](https://skillicons.dev)
+
+### Operating System 💻
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,mint,windows)](https://skillicons.dev)
+
+### My Stats ⚡️
+[![My Stats](https://github-readme-stats.vercel.app/api?username=msdzulqurnain&show_icons=true&theme=dracula)](https://github.com/msdzulqurnain/github-readme-stats)
+
+### My Top Langs 🏴‍☠️
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msdzulqurnain&layout=compact&theme=dracula)
+
+### My Personality
+![w](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhmdXlpeDdwMW95bXNsZXpubno1dDBvdnNjOXZiczVpb2cxeWQxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4gH9mQjn6OGQg/giphy.gif) ![w](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pqZWhibHhocm44Y2Zsd2M3bGxxZ21kcHltMTZpYzg4ZDN6bTl0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3HeU0IDO2jLy/giphy.gif)
