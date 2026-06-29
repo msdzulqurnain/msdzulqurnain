@@ -90,12 +90,7 @@ hobby: ["Coding", "Learning new tech"]
 
 ### My Personality
 
-<table>
-  <tr>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhmdXlpeDdwMW95bXNsZXpubno1dDBvdnNjOXZiczVpb2cxeWQxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4gH9mQjn6OGQg/giphy.gif" width="245" height="260" style="object-fit: cover; object-position: 75% center;"/></td>
-    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pqZWhibHhocm44Y2Zsd2M3bGxxZ21kcHltMTZpYzg4ZDN6bTl0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3HeU0IDO2jLy/giphy.gif" width="245" height="260"/></td>
-  </tr>
-</table>
+![w](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhmdXlpeDdwMW95bXNsZXpubno1dDBvdnNjOXZiczVpb2cxeWQxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4gH9mQjn6OGQg/giphy.gif) ![w](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pqZWhibHhocm44Y2Zsd2M3bGxxZ21kcHltMTZpYzg4ZDN6bTl0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3HeU0IDO2jLy/giphy.gif)
 
 ---
 
